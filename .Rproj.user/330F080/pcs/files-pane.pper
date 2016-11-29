@@ -1,0 +1,9 @@
+{
+    "path" : "~/dynpanel/man",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

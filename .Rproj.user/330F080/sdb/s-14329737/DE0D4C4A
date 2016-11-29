@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: dynpanel\nType: Package\nTitle: Dynamic Panel Data Models\nVersion: 0.1.0\nAuthor: Taha Zaghdoudi\nMaintainer: Taha Zaghdoudi <zedtaha@gmail.com>\nDescription: Computes the first stage GMM estimate of a dynamic linear model with p lags of the dependent variables.\nLicense: GPL-3\nLazyData: TRUE\nRoxygenNote: 5.0.1\nDepends: R (>= 3.3.0)\nImports: stats, gtools\n",
+    "created" : 1472286205545.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3308704353",
+    "id" : "DE0D4C4A",
+    "lastKnownWriteTime" : 1472317895,
+    "last_content_update" : 1472317895921,
+    "path" : "~/dynpanel/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
